@@ -1,4 +1,4 @@
-from bot.command_handler import main as bot_main
+from .bot.command_handler import main as bot_main
 
 
 def main():

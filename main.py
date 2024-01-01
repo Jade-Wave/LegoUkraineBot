@@ -1,3 +1,4 @@
 from src.__main__ import main
 
-main()
+bot = main()
+bot.run(bot.application_token)
